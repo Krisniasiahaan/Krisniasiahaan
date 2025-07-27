@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:krisnia@example.com"><img src="https://img.shields.io/badge/email-krisnia@example.com-blue?style=flat&logo=gmail"></a>
+  <a href="mailto:krisniacalysta@gmail.com"><img src="https://img.shields.io/badge/email-krisniacalysta@gmail.com-blue?style=flat&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/krisniacalysta"><img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=flat&logo=linkedin"></a>
   <a href="https://www.instagram.com/krisniacaly_/"><img src="https://img.shields.io/badge/Instagram-@krisniacaly__-pink?style=flat&logo=instagram"></a>
 </p>
@@ -33,7 +33,7 @@ I'm a passionate software developer with a love for solving problems and creatin
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=github_dark" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-Krisniasiahaan&show_icons=true&theme=github_dark" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=github-dark-blue" height="180"/>
 </p>
 
