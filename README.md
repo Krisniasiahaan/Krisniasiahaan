@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:krisniacalysta@gmail.com"><img src="https://img.shields.io/badge/email-krisniacalysta@gmail.com-blue?style=flat&logo=gmail"></a>
-  <a href="www.linkedin.com/in/krisniacalysta"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
-  <img src="https://img.shields.io/badge/Pronouns-He/Him-yellow?style=flat"/>
+  <a href="mailto:krisnia@example.com"><img src="https://img.shields.io/badge/email-krisnia@example.com-blue?style=flat&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/krisniacalysta"><img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=flat&logo=linkedin"></a>
+  <a href="https://www.instagram.com/krisniacaly_/"><img src="https://img.shields.io/badge/Instagram-@krisniacaly__-pink?style=flat&logo=instagram"></a>
 </p>
 
 ---
@@ -45,9 +45,8 @@ I'm a passionate software developer with a love for solving problems and creatin
 ---
 
 ### 📬 Let's Connect
-Feel free to send me a message on [LinkedIn](https://www.linkedin.com/in/your-linkedin) or email me at [krisnia@example.com](mailto:krisnia@example.com)
+Feel free to send me a message on [LinkedIn](https://www.linkedin.com/in/krisniacalysta) or email me at [krisnia@example.com](mailto:krisnia@example.com)
 
 ---
 
 _Thanks for stopping by! 😊_
-
