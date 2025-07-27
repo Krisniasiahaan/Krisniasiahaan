@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:krisniacalysta@gmail.com"><img src="https://img.shields.io/badge/email-krisniacalysta@gmail.com-blue?style=flat&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
+  <a href="www.linkedin.com/in/krisniacalysta"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
   <img src="https://img.shields.io/badge/Pronouns-He/Him-yellow?style=flat"/>
 </p>
 
