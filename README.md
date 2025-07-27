@@ -1,21 +1,53 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Krisnia Siahaan 👋</h1>
 
-Welcome to my GitHub! I'm Krisnia Siahaan, a passionate software developer with a love for solving problems and creating efficient solutions. Here's a little about me:
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif">
+</p>
 
-🔭 I’m currently working on developing web applications using React and Node.js, as well as exploring machine learning in my spare time.
+<p align="center">
+  <a href="mailto:krisnia@example.com"><img src="https://img.shields.io/badge/email-krisnia@example.com-blue?style=flat&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
+  <img src="https://img.shields.io/badge/Pronouns-He/Him-yellow?style=flat"/>
+</p>
 
-🌱 I’m currently learning cloud computing and diving deeper into artificial intelligence.
+---
 
-👯 I’m looking to collaborate on open-source projects, particularly in full-stack development and data science.
+### 👨‍💻 About Me
+I'm a passionate software developer with a love for solving problems and creating efficient solutions. Here's a little about me:
 
-🤔 I’m looking for help with advanced algorithms and optimizing backend performance.
+- 🚀 Currently building **web applications** using **React** & **Node.js**
+- 🤖 Exploring **Machine Learning** and **AI** in my spare time
+- ☁️ Learning **cloud computing** and distributed systems
+- 🤝 Open to **collaborate** on full-stack and **data science** projects
+- 🧠 Looking for help with **advanced algorithms** & backend optimization
+- 💬 Ask me about: **JavaScript**, **Python**, **Cloud Services**, **Design Patterns**
 
-💬 Ask me about JavaScript, Python, cloud services, or software design patterns—I love to share knowledge!
+---
 
-📫 How to reach me: Feel free to send me a message via my LinkedIn or email me at krisnia@example.com.
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,html,css,mongodb,firebase,aws,git,github,vscode" />
+</p>
 
-😄 Pronouns: He/Him
+---
 
-⚡ Fun fact: I once built a robot that can dance to music! (Still working on the rhythm though 😄)
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=github_dark" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=github-dark-blue" height="180"/>
+</p>
 
-Let’s build something amazing together! 🚀
+---
+
+### ⚡ Fun Fact
+> I once built a robot that can dance to music! (Still working on the rhythm though 😅)
+
+---
+
+### 📬 Let's Connect
+Feel free to send me a message on [LinkedIn](https://www.linkedin.com/in/your-linkedin) or email me at [krisnia@example.com](mailto:krisnia@example.com)
+
+---
+
+_Thanks for stopping by! 😊_
+
