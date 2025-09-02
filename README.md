@@ -31,14 +31,6 @@ I'm a passionate software developer with a love for solving problems and creatin
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-Krisniasiahaan&show_icons=true&theme=github_dark" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=github-dark-blue" height="180"/>
-</p>
-
----
-
 ### ⚡ Fun Fact
 > I once built a robot that can dance to music! (Still working on the rhythm though 😅)
 
