@@ -37,7 +37,7 @@ I'm a passionate software developer with a love for solving problems and creatin
 ---
 
 ### 📬 Let's Connect
-Feel free to send me a message on [LinkedIn](https://www.linkedin.com/in/krisniacalysta) or email me at [krisnia@example.com](mailto:krisnia@example.com)
+Feel free to send me a message on [LinkedIn](https://www.linkedin.com/in/krisniacalysta) or email me at [krisniacalysta@example.com]
 
 ---
 
