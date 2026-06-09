@@ -12,32 +12,35 @@
 
 ---
 
-### 👨‍💻 About Me
-I'm a passionate software developer with a love for solving problems and creating efficient solutions. Here's a little about me:
+### 👩‍💻 About Me
+I'm an analytical Information Systems student at Del Institute of Technology specializing in Data Analytics and Systems Analysis. I am passionate about bridging the gap between user-centered design, data-driven insights, and technology.
 
-- 🚀 Currently building **web applications** using **React** & **Node.js**
-- 🤖 Exploring **Machine Learning** and **AI** in my spare time
-- ☁️ Learning **cloud computing** and distributed systems
-- 🤝 Open to **collaborate** on full-stack and **data science** projects
-- 🧠 Looking for help with **advanced algorithms** & backend optimization
-- 💬 Ask me about: **JavaScript**, **Python**, **Cloud Services**, **Design Patterns**
+- 🎓 Final-year student expected to graduate in September 2026.
+- 🚀 Recently completed an internship at PT Dayamitra Telekomunikasi Tbk (Mitratel) in the PMO unit, focused on data validation and quality assurance.
+- 🤖 Currently conducting undergraduate thesis research analyzing the role of Generative AI (GenAI) in customer discovery activities for software startups.
+- 🤝 Open to collaborate on Data Analytics, Business Intelligence, and Systems Analysis projects.
+- 💬 Ask me about: **Data Visualisation (Tableau)**, **SQL & Python for Data Analytics**, and **System Modeling**.
 
 ---
 
 ### 🛠️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,html,css,mongodb,firebase,aws,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,php,laravel,mysql,git,github,visualstudio,html,css" />
 </p>
+
+*Note: Also proficient in tools like **Tableau Public**, **Pentaho Data Integration (ETL)**, and **Data Cleaner**.*
 
 ---
 
-### ⚡ Fun Fact
-> I once built a robot that can dance to music! (Still working on the rhythm though 😅)
+### 📂 Featured Projects
+- **Facility Maestro IT Del:** A web-based campus facility management and borrowing system built with Laravel.
+- **IT Del Admission Data Warehouse:** A comprehensive BI solution utilizing Pentaho for ETL pipelines and Tableau for interactive dashboarding.
+- **Del Corner Cafe Management System:** A digital solution engineered through comprehensive business process analysis and system modeling.
 
 ---
 
 ### 📬 Let's Connect
-Feel free to send me a message on [LinkedIn](https://www.linkedin.com/in/krisniacalysta) or email me at [krisniacalysta@example.com]
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/krisniacalysta) or drop an email at **krisniacalysta@gmail.com**.
 
 ---
 
