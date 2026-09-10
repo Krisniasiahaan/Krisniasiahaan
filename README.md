@@ -6,6 +6,10 @@
 </a>
 
   <p align="center">
+    <img src="https://raw.githubusercontent.com/ABSphinx/ABSphinx/main/gifs/Working.gif" width="280" alt="Working on Laptop" />
+  </p>
+
+  <p align="center">
     <em>Transforming ambiguous business problems into validated architectures, clear workflows, and actionable data metrics.</em>
   </p>
 
