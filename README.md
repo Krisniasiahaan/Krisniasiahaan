@@ -1,8 +1,8 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&multiline=false&width=650&height=50&lines=Hi+there%2C+I'm+Krisnia+Calysta+Siahaan+%F0%9F%91%8B;Data+%7C+Product+%7C+Systems+Analyst+%7C+QA;Bridging+Data+Intelligence+%26+System+Design" alt="Typing SVG" />
-</a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=1D3557&center=true&vCenter=true&multiline=false&width=650&height=50&lines=Hi+there%2C+I'm+Krisnia+Calysta+Siahaan+%F0%9F%91%8B;Data+%7C+Product+%7C+Systems+Analyst+%7C+QA;Bridging+Data+Intelligence+%26+System+Design" alt="Typing SVG" />
+  </a>
 
   <p align="center">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Girl Animation" />
