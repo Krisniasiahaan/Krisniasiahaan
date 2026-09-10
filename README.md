@@ -78,6 +78,9 @@
 | 📋 **Process Architecture** | **Del Corner Cafe Management** | `Business Modeling` `Gap Analysis` | Re-engineered ordering flows and documented full software requirement baselines. |
 
 ---
+### 🤝 Let's Collaborate & Connect
+
+I am actively seeking opportunities where I can contribute across **Data Analytics, Systems Architecture, Product Discovery, and Quality Assurance**.
 
 <div align="center">
   <sub>Engineered with precision, validated with data. ✨</sub>
