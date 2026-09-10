@@ -39,33 +39,31 @@
 
 <div align="left">
 
-**📊 Data Analytics & Business Intelligence**  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=Power-BI&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white)
-![Pentaho PDI](https://img.shields.io/badge/Pentaho_ETL-005A9C?style=flat-square&logo=Hitachi&logoColor=white)
-![DataCleaner](https://img.shields.io/badge/DataCleaner-Validation-2A9D8F?style=flat-square)
+**Data Analytics & Business Intelligence**  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![Pentaho](https://img.shields.io/badge/Pentaho_PDI-005A9C?style=for-the-badge&logo=Hitachi&logoColor=white)
 
 <br/>
 
 **📐 Systems Architecture, Product Strategy & QA**  
-![BPMN](https://img.shields.io/badge/Process_Design-BPMN%202.0-00B4D8?style=flat-square)
-![UML Modeling](https://img.shields.io/badge/Architecture-UML%20Diagrams-48CAE4?style=flat-square)
-![System Analysis](https://img.shields.io/badge/Specs-Requirements_Engineering-6C5CE7?style=flat-square)
-![QA & Data Testing](https://img.shields.io/badge/Quality_Assurance-Manual%20%26%20Data%20Audit-00C49F?style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
+![BPMN](https://img.shields.io/badge/BPMN_2.0-00B4D8?style=for-the-badge)
+![UML](https://img.shields.io/badge/UML_Modeling-6C5CE7?style=for-the-badge)
+![Requirements](https://img.shields.io/badge/Requirements_Engineering-48CAE4?style=for-the-badge)
+![Data QA](https://img.shields.io/badge/QA_&_Data_Audit-00C49F?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
 
 <br/>
 
 **🔬 Research Methods & Statistics**  
-![SmartPLS](https://img.shields.io/badge/SmartPLS-PLS--SEM-FF5722?style=flat-square)
-![G*Power](https://img.shields.io/badge/G*Power-Power_Analysis-9C27B0?style=flat-square)
-![NVivo](https://img.shields.io/badge/NVivo-Qualitative_Coding-2E7D32?style=flat-square)
-![Survey Design](https://img.shields.io/badge/Methodology-Instrument_Validation-E76F51?style=flat-square)
+![SmartPLS](https://img.shields.io/badge/SmartPLS_(PLS--SEM)-FF5722?style=for-the-badge)
+![G*Power](https://img.shields.io/badge/G*Power-7952B3?style=for-the-badge)
+![NVivo](https://img.shields.io/badge/NVivo-2E7D32?style=for-the-badge)
 
 </div>
 
