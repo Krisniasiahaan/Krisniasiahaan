@@ -6,7 +6,7 @@
 </a>
 
   <p align="center">
-    <img src="https://raw.githubusercontent.com/ABSphinx/ABSphinx/main/gifs/Working.gif" width="280" alt="Working on Laptop" />
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Girl Animation" />
   </p>
 
   <p align="center">
