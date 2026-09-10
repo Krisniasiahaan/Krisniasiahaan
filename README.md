@@ -80,16 +80,16 @@
 ### 📊 Activity & Telemetry
 
 <div align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00F5D4&text_color=9A8C98&icon_color=7952B3&bg_color=0D1117" alt="Krisnia's GitHub Stats" width="48%" />
+  <a href="https://github.com/Krisniasiahaan">
+    <img src="https://github-readme-stats.vercel.app/api?username=Krisniasiahaan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00F5D4&text_color=9A8C98&icon_color=7952B3&bg_color=0D1117" alt="Krisnia's GitHub Stats" width="48%" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=00F5D4&text_color=9A8C98&bg_color=0D1117" alt="Top Languages" width="48%" />
+  <a href="https://github.com/Krisniasiahaan">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krisniasiahaan&layout=compact&theme=tokyonight&hide_border=true&title_color=00F5D4&text_color=9A8C98&bg_color=0D1117" alt="Top Languages" width="48%" />
   </a>
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=7952b3&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Krisniasiahaan&color=7952b3&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 ---
