@@ -2,7 +2,7 @@
 
   <!-- Dynamic Typing Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7B2CBF&center=true&vCenter=true&multiline=false&width=650&height=50&lines=Hi+there%2C+I'm+Krisnia+Calysta+Siahaan+%F0%9F%91%8B;Data+%7C+Product+%7C+Systems+Analyst;Bridging+Data+Intelligence+%26+System+Design" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7B2CBF&center=true&vCenter=true&multiline=false&width=650&height=50&lines=Hi+there%2C+I'm+Krisnia+Calysta+Siahaan+%F0%9F%91%8B;Data+Analyst+%7C+Product+Analyst+%7C+Systems+Analyst+%7C+QA;Bridging+Data+Intelligence+%26+System+Design" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -37,33 +37,63 @@
 
 ### 🛠️ Interactive Tech Stack & Ecosystem
 
-<div align="left">
+<div align="center">
 
-**Data Analytics & Business Intelligence**  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white)
-![Pentaho](https://img.shields.io/badge/Pentaho_PDI-005A9C?style=for-the-badge&logo=Hitachi&logoColor=white)
-
+**📊 Data Intelligence & Analytics**  
 <br/>
+<a href="https://www.tableau.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="Tableau" width="42" height="42"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" alt="Power BI" width="40" height="40"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="42" height="42"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="42" height="42"/>
+</a>
 
-**📐 Systems Architecture, Product Strategy & QA**  
-![BPMN](https://img.shields.io/badge/BPMN_2.0-00B4D8?style=for-the-badge)
-![UML](https://img.shields.io/badge/UML_Modeling-6C5CE7?style=for-the-badge)
-![Requirements](https://img.shields.io/badge/Requirements_Engineering-48CAE4?style=for-the-badge)
-![Data QA](https://img.shields.io/badge/QA_&_Data_Audit-00C49F?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
+<br/><br/>
 
+**📐 Systems Architecture, Product & Engineering**  
 <br/>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="42" height="42"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="42" height="42"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://laravel.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="42" height="42"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="42" height="42"/>
+</a>
 
-**🔬 Research Methods & Statistics**  
-![SmartPLS](https://img.shields.io/badge/SmartPLS_(PLS--SEM)-FF5722?style=for-the-badge)
-![G*Power](https://img.shields.io/badge/G*Power-7952B3?style=for-the-badge)
-![NVivo](https://img.shields.io/badge/NVivo-2E7D32?style=for-the-badge)
+<br/><br/>
+
+**🔬 Research, Analysis & QA Methodologies**  
+<br/>
+<img src="https://img.shields.io/badge/SmartPLS-PLS--SEM-E65100?style=flat&logoColor=white" />
+<img src="https://img.shields.io/badge/G*Power-Power_Analysis-6A1B9A?style=flat&logoColor=white" />
+<img src="https://img.shields.io/badge/NVivo-Qualitative_Coding-1B5E20?style=flat&logoColor=white" />
+<img src="https://img.shields.io/badge/BPMN_2.0-Process_Flows-00838F?style=flat&logoColor=white" />
+<img src="https://img.shields.io/badge/QA-Data_Integrity-2E7D32?style=flat&logoColor=white" />
 
 </div>
 
