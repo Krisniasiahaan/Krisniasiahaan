@@ -1,24 +1,24 @@
 <div align="center">
 
-  <!-- Dynamic Typing Header -->
+  <!-- Typing SVG Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7B2CBF&center=true&vCenter=true&multiline=false&width=650&height=50&lines=Hi+there%2C+I'm+Krisnia+Calysta+Siahaan+%F0%9F%91%8B;Data+Analyst+%7C+Product+Analyst+%7C+Systems+Analyst+%7C+QA;Bridging+Data+Intelligence+%26+System+Design" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7B2CBF&center=true&vCenter=true&multiline=false&width=650&height=50&lines=Hi+there%2C+I'm+Krisnia+Calysta+Siahaan+%F0%9F%91%8B;Data+%7C+Product+%7C+Systems+Analyst+%7C+QA;Bridging+Data+Intelligence+%26+System+Design" alt="Typing SVG" />
   </a>
 
   <p align="center">
     <em>Transforming ambiguous business problems into validated architectures, clear workflows, and actionable data metrics.</em>
   </p>
 
-  <!-- Interactive Action Buttons -->
+  <!-- Clean Pill Buttons -->
   <p align="center">
     <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-7952B3?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:krisniacalysta@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="mailto:krisniacalysta@gmail.com">
-      <img src="https://img.shields.io/badge/⚡_Status-Open_to_Opportunities-00F5D4?style=for-the-badge&labelColor=1F2421&color=00F5D4" alt="Status" />
+      <img src="https://img.shields.io/badge/Status-Open_to_Opportunities-2ECC71?style=for-the-badge" alt="Status" />
     </a>
   </p>
 
@@ -31,71 +31,38 @@
 - 🎓 **Academic Foundation:** Information Systems graduate from **Del Institute of Technology** with an analytical bridge across product strategy, data pipelines, and systems design.
 - 🏢 **Industry Impact:** Ex-PMO Intern at **PT Dayamitra Telekomunikasi Tbk (Mitratel)** — drove data validation, quality control reporting, and governance compliance.
 - 🔬 **Empirical Startup Research:** Specialized in evaluating early-stage customer discovery mechanisms through **Generative AI adoption** via PLS-SEM modeling.
-- 🎯 **What I Deliver:** I align user needs with technical reality—ensuring data flows correctly, systems operate without gaps, and business decisions are backed by empirical proof.
+- 🎯 **Value Delivered:** Aligning user needs with technical reality—ensuring data flows correctly, systems operate without gaps, and business decisions are backed by empirical proof.
 
 ---
 
-### 🛠️ Interactive Tech Stack & Ecosystem
+### 🛠️ Tech Stack & Capabilities
 
 <div align="center">
 
-**📊 Data Intelligence & Analytics**  
-<br/>
-<a href="https://www.tableau.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="Tableau" width="42" height="42"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" alt="Power BI" width="40" height="40"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="42" height="42"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="42" height="42"/>
-</a>
+<!-- Modern Unified Rounded App Icons -->
+<p>
+  <img src="https://skillicons.dev/icons?i=py,mysql,postgres,laravel,php,git,github,vscode,postman&theme=dark" alt="Technical Skills" />
+</p>
 
-<br/><br/>
-
-**📐 Systems Architecture, Product & Engineering**  
-<br/>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="42" height="42"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="42" height="42"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://laravel.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="42" height="42"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="42" height="42"/>
-</a>
-
-<br/><br/>
-
-**🔬 Research, Analysis & QA Methodologies**  
-<br/>
-<img src="https://img.shields.io/badge/SmartPLS-PLS--SEM-E65100?style=flat&logoColor=white" />
-<img src="https://img.shields.io/badge/G*Power-Power_Analysis-6A1B9A?style=flat&logoColor=white" />
-<img src="https://img.shields.io/badge/NVivo-Qualitative_Coding-1B5E20?style=flat&logoColor=white" />
-<img src="https://img.shields.io/badge/BPMN_2.0-Process_Flows-00838F?style=flat&logoColor=white" />
-<img src="https://img.shields.io/badge/QA-Data_Integrity-2E7D32?style=flat&logoColor=white" />
+<!-- BI & Analytics Platforms -->
+<p>
+  <a href="https://public.tableau.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="Tableau" width="44" height="44" style="margin: 0 10px; vertical-align: middle;" />
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" alt="Power BI" width="42" height="42" style="margin: 0 10px; vertical-align: middle;" />
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="44" height="44" style="margin: 0 10px; vertical-align: middle;" />
+  </a>
+</p>
 
 </div>
+
+**Domain Frameworks & Methodologies**
+* **Data Pipelines & QA:** Pentaho Data Integration (PDI), DataCleaner, Data Validation, Manual Functional QA
+* **Systems & Business Architecture:** BPMN 2.0, UML Modeling, Requirements Engineering (BRD/FRD), Gap Analysis
+* **Statistical & Empirical Modeling:** SmartPLS (PLS-SEM), G*Power (Power Analysis), NVivo (Qualitative Coding)
 
 ---
 
