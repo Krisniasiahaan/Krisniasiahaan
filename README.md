@@ -9,16 +9,18 @@
     <em>Transforming ambiguous business problems into validated architectures, clear workflows, and actionable data metrics.</em>
   </p>
 
-  <!-- Clean Pill Buttons -->
+  <!-- Clean Solid Buttons -->
   <p align="center">
     <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
+    &nbsp;
     <a href="mailto:krisniacalysta@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
+    &nbsp;
     <a href="mailto:krisniacalysta@gmail.com">
-      <img src="https://img.shields.io/badge/Status-Open_to_Opportunities-2ECC71?style=for-the-badge" alt="Status" />
+      <img src="https://img.shields.io/badge/Open%20to%20Opportunities-2ECC71?style=for-the-badge" alt="Open to Opportunities" />
     </a>
   </p>
 
@@ -77,23 +79,19 @@
 
 ---
 
-### 📊 Activity & Telemetry
+### 🤝 Let's Collaborate & Connect
+
+I am actively seeking opportunities where I can contribute across **Data Analytics, Systems Architecture, Product Discovery, and Quality Assurance**.
 
 <div align="center">
-  <a href="https://github.com/Krisniasiahaan">
-    <img src="https://github-readme-stats.vercel.app/api?username=Krisniasiahaan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00F5D4&text_color=9A8C98&icon_color=7952B3&bg_color=0D1117" alt="Krisnia's GitHub Stats" width="48%" />
+  <br/>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/Krisniasiahaan">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krisniasiahaan&layout=compact&theme=tokyonight&hide_border=true&title_color=00F5D4&text_color=9A8C98&bg_color=0D1117" alt="Top Languages" width="48%" />
+  &nbsp;
+  <a href="mailto:krisniacalysta@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Krisniasiahaan&color=7952b3&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
-
----
-
-<div align="center">
+  <br/><br/>
   <sub>Engineered with precision, validated with data. ✨</sub>
 </div>
