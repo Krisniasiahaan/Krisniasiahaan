@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- Typing SVG Header -->
+  <!-- Typing SVG Header (Pink Edition) -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7B2CBF&center=true&vCenter=true&multiline=false&width=650&height=50&lines=Hi+there%2C+I'm+Krisnia+Calysta+Siahaan+%F0%9F%91%8B;Data+%7C+Product+%7C+Systems+Analyst+%7C+QA;Bridging+Data+Intelligence+%26+System+Design" alt="Typing SVG" />
   </a>
