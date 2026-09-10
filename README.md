@@ -9,16 +9,8 @@
     <em>Transforming ambiguous business problems into validated architectures, clear workflows, and actionable data metrics.</em>
   </p>
 
-  <!-- Clean Solid Buttons -->
+  <!-- Clean Status Badge -->
   <p align="center">
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    &nbsp;
-    <a href="mailto:krisniacalysta@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    &nbsp;
     <a href="mailto:krisniacalysta@gmail.com">
       <img src="https://img.shields.io/badge/Open%20to%20Opportunities-2ECC71?style=for-the-badge" alt="Open to Opportunities" />
     </a>
@@ -79,19 +71,6 @@
 
 ---
 
-### 🤝 Let's Collaborate & Connect
-
-I am actively seeking opportunities where I can contribute across **Data Analytics, Systems Architecture, Product Discovery, and Quality Assurance**.
-
 <div align="center">
-  <br/>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:krisniacalysta@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <br/><br/>
   <sub>Engineered with precision, validated with data. ✨</sub>
 </div>
