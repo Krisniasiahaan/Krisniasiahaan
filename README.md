@@ -1,7 +1,6 @@
 <div align="center">
 
-  <!-- Typing SVG Header -->
-<a href="https://git.io/typing-svg">
+  <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&multiline=false&width=650&height=50&lines=Hi+there%2C+I'm+Krisnia+Calysta+Siahaan+%F0%9F%91%8B;Data+%7C+Product+%7C+Systems+Analyst+%7C+QA;Bridging+Data+Intelligence+%26+System+Design" alt="Typing SVG" />
 </a>
 
@@ -13,7 +12,6 @@
     <em>Transforming ambiguous business problems into validated architectures, clear workflows, and actionable data metrics.</em>
   </p>
 
-  <!-- Clean Solid Buttons (Top Only) -->
   <p align="center">
     <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -45,22 +43,18 @@
 
 <div align="center">
 
-<!-- Modern Unified Rounded App Icons -->
 <p>
   <img src="https://skillicons.dev/icons?i=py,mysql,postgres,laravel,php,git,github,vscode,postman&theme=dark" alt="Technical Skills" />
 </p>
 
-<!-- BI & Analytics Platforms -->
 <p>
-  <a href="https://public.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="Tableau" width="44" height="44" style="margin: 0 10px; vertical-align: middle;" />
-  </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" alt="Power BI" width="42" height="42" style="margin: 0 10px; vertical-align: middle;" />
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="44" height="44" style="margin: 0 10px; vertical-align: middle;" />
-  </a>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black" alt="Power BI" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/SmartPLS-PLS--SEM-FF5722?style=for-the-badge&logo=databricks&logoColor=white" alt="SmartPLS" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white" alt="Pandas" />
 </p>
 
 </div>
